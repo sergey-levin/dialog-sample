@@ -1,5 +1,10 @@
 # dialog-sample
-Minimum example for possible double delete in QtCreator settings widget
+Minimum example for possible double delete in QtCreator settings widget.
+
+# Preparations
+Linux or OS X is needed to run sample test.sh file.
+1. Check run permissions for test.sh. If not: chmod +x test.sh
+2. Compile project.
 
 # How to use
 1. Run the app.
